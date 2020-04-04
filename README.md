@@ -86,6 +86,8 @@ Embedding the ANE:
 1. iOS SDK 10.0+ with no crash. but functions on iOS 13+ only
 1. Before implementing the ANE, make sure you have already enabled ```Sign In with Apple``` option from your apple console and also make sure you have re-downloaded your *.mobileprovision* files.
 
+![sign in with apple in Adobe AIR app](https://myflashlab.github.io/wiki_img/Apple-sign-in-01.png)
+
 # Commercial Version
 Only available through [ANELAB Software](https://github.com/myflashlab/ANE-LAB/)
 
